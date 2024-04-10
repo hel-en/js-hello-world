@@ -8,17 +8,23 @@ console.log("Hello, World!")
 
 // Exercises
 console.log('Hello, World!') // 1
+
 // 2 parentheses are necessary
 // 3 same function for both types, both opening/closing quotation marks necessary; must match
 // 4 semicolon not always necessary; works for printing code to next line if typed on same line; funtions like pressing "Enter"
+
 console.log(8); console.log(8+8) // 5
+
 console.log("What's up?") // 6
 console.log("Nothing much.") // 6
 console.log("What's up?"); console.log("Nothing much.") // 6
+
 console.log("What's up?", 
             "Nothing much."); // 7 separate same line texts with commas
+
 console.log("He said, 'What's up?' and she replied, 'Nothing much.'") // 8
 console.log('He said, "What is up?" and she replied, "Nothing much."') // 8
+
 console.log((2**3)*(2)); // 9
 
 /*  
